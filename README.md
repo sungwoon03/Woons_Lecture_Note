@@ -26,13 +26,22 @@
 ```
 ---
 ### [Git Bash]
+![image](https://velog.velcdn.com/images/maxine45/post/aced4cd4-0543-410e-ad3e-801c67d15cd7/image.jpg)  
 ---
 - pwd : shows the current path in a hierarchical directory
 - cd : change directory
 - ls : list files and directories  
 ### Arguments
 ---  
-![Alt text](image-1.png)
+![Alt text](image-1.png)  
+- [directory name]
+- / root
+- . current directory
+- .. upper-level directory
+- ~ home of current user
+- /[directory name]: absolute path
+- ./[directory name]: relative path
+- ../[directory name]: relative path
 
 plus notion
 - cp: copy files and directories  
